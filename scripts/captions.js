@@ -5818,6 +5818,413 @@ window.Captions = {
 			"extra8": "Стикайся зі своїми страхами у безпечному просторі.",
 				
 		}
+	},
+
+	// Hebrew
+	"he": {
+		label: "עברית",
+		captions: { 
+
+			//////////////////
+			// INTRODUCTION //
+			//////////////////
+
+			"intro0": "אז, לי היו התקפי חרדה",
+			"intro1": "ואז, נכנסתי לחרדה על זה שנכנסתי לחרדה.",
+			"intro2": "זו הייתה חרדה לאורך כל הדרך.",
+			"intro3": "",
+
+			/////////////////
+			// PROPAGATION //
+			/////////////////
+
+			"prop0": "היי, אני ניקי קייס,",
+			"prop1": "וזהו הסבר אינטרקטיבי על תאי העצב.",
+			"prop2": "כן! אתם יכולים לשחק עם זה,",
+			"prop3": "♬ אז למה לא לנסות את זה ♬",
+			"prop4": "הקלק על תא עצב ותראה מה קורה",
+
+			"prop5": "סליחה!!! אני דיברתי פה... אני סתם צוחק",
+
+			"prop6": "אוקיי, ואוו, עכשיו אתה ממש נכנס לזה, תקליק על הכל,",
+			"prop7": "אוקיי. תפסת. מגניב!!",
+
+			"prop8": "כן!",
+			"prop8.5": "תראה את המסרים עוברים להם.",
+			"prop9": "מתא עצב אחד לשני ולשלישי",
+			"prop10": "תסנה להקליק עוד.",
+
+			"prop11": "כמובן, זה גורם מופשט.",
+			"prop12": "אבל ככה בערך עובדים תאי עצב.",
+			"prop13": "מחשבה אחד גוררת לשנייה, וכך הלאה,",
+			"prop14": "אבל!! במוחו של בעל הפרעת חרדה",
+
+			"mesmerizing": "קצת מהפנט, לא?",
+
+			//////////////
+			// MY FEARS //
+			//////////////
+
+			"fear0": "תראה מה קורה",
+			"fear1": "מחשבות תמימות מחוברות למחשבות מדאיגות",
+			"fear2": "אישית, קצת פחדתי שיחשבו שאני כישלון",
+			"fear3": "מלבוא בקרבה עם אנשים",
+			"fear4": "ומ...",
+			"fear5": "חורים.",
+			"fear6": "כי... לא יודע, חורים קטנים מקובצים",
+			"fear7": "קצת עושים לי צמרמורת, אתם יודעים? לא יודע...",
+			
+			//////////////////////
+			// HEBBIAN LEARNING //
+			//////////////////////
+
+			"hebb0": "[צלילים]",
+			"hebb1": "בכל אופן, איך אנחנו לומדים את הפחדים האלה מלכתחילה?",
+			"hebb2": "ובכן, כדי להסביר לכם, נאלץ להיפטר מכל זה...",
+			"hebb3": "ולתת לכם את...",
+			"hebb4": "זה!",
+
+			"hebb5": "למידה הביאנית.",
+			"hebb6": "“תאי עצב שנורים יחד מתחברים יחד”",
+
+			"hebb7": "זו הנחה בסיסית עליה מתבססים מדעני מוח",
+			"hebb8": "תאי עצב יוצרים קשרים חדשים",
+			"hebb9": "באופן בסיסי, אם אתה יורה תא אחד ואז את השני",
+			"hebb10": "התא הראשון יתחבר לתא השני",
+			"hebb11": "נסה זאת בעצמך!",
+
+			"hebb12": "איטי מדי! לא הקלקת מספיק מהר. נסה שוב?",
+			"hebb13": "לא מספיק קרוב. נסה זוג אחר של תאי עצב.",
+
+			"hebb14": "וככה אנחנו לומדים!",
+			"hebb15": "מן הסתם, זה לא קורה כ\"ך מהר במצאיות.",
+			"hebb16": "האצתי את הסימולציה, אה. אבל עדיין.",
+			"hebb17": "עכשיו שחק עם זה. צור כמה קשרים.",
+			"hebb18": "אולי תיצור שרשרת או משהו כזה",
+
+			"hebb19": "חוק הלמידה הזה, הוא הסיבה שאם, למשל, נשך אותך כלב בילדות",
+			"hebb20": "אולי תפתח פחד מכלבים!",
+			"hebb21": "כי תא העצב של 'כלב' נורא ואחריו תא העצב של 'כאב'",
+			"hebb22": "ולכן, נוצר קשר בין 'כלב' ל'כאב'",
+
+			///////////////////////////
+			// ANTI-HEBBIAN LEARNING //
+			///////////////////////////
+
+			"anti0": "למעשה, אם ככה אז לומדים אז זאת הדרך שאנחנו שוכחים את הלמידה",
+			
+			"anti1": "למידה אנטי-הביאנית.",
+			"anti2": "“תאי עצב שנורים בלי סנכרון, מאבדים את בקשר”",
+			
+			"anti3": "עוד הנחת יסוד למדעני מוח",
+
+			"anti4": "כלומר - אם כבר יש קשר בין תא עצב אחד לשני",
+			"anti5": "ואחד נורה מבלי שהשני נורה אחריו",
+			"anti6": "הקשר בינייהם נחלש",
+			"anti7": "שוב, נסו את זה",
+
+			"anti8": "לתא עצב הזה כלום לא מחובר.",
+			"anti9": "אתם צריכים למצוא אחד שמחובר אליו משהו",
+			"anti10": "אה, טוב, לתא הזה יש קשרים המחוברים אליו אבל לא ממנו",
+			"anti11": "תמצאו אחד עם קשרים שיוצאים ממנו",
+
+			"anti12": "עכשיו חכו...",
+			"anti13": "ותראו! הקשר החליש",
+			"anti14": "תעשו את זה שוב ",
+
+			"anti15": "חוק ביטול הלמידה הזה הוא הסיבה שאם אתם מפחדים מכלבים",
+			"anti16": "ואתם נחשפים שוב שוב לכלבים הידידותיים של החבר שלך",
+			"anti17": "אתה תפסיק לפחד מהם",
+			"anti18": "'כי תא העצב 'כלב' נורא בלי שתא העצב 'כאב' יורה",
+			"anti19": "ולכן, הקשר נחלש",
+
+			/////////////
+			// THERAPY //
+			/////////////
+
+			"ther0": "אז עכשיו כשאתם יודעים איך לומדים ושוכחים, בואו נחזור ל...",
+			"ther1": "...זה",
+
+			"ther2": "אני רוצה שתאמנו מחדש את המוח הזה",
+			"ther3": "תתקינו ותחברו מחדש כל אחת משלושת המחשבות האלה",
+			"ther4": "מרגש של פחד לרגש של ביטחון",
+
+			"ther5": "מבינים, לתקן את עצמך עלול ליצור חרדה לטווח קצר",
+			"ther6": "אבל כ\"ך שווה את זה בטווח הארוך",
+
+			"ther7": "אחד ירד, שניים נותרו",
+			"ther8": "שניים ירדו, אחד נותר",
+			"ther9": "אני. עדין. לא. אוהב. חורים",
+
+			"ther10": "ועשיתם זאת!!",
+
+			"ther11": "מה שעשיתם עכשיו נקרא 'חשיפה טיפולית ישירה'",
+			"ther12": "זה אחד מהטיפולים הכי מגובים אי פעם ע\"י ידי העובדות.",
+			"ther13": "כדי לטפל בפוביות מסוימות,  בהפרעת דחק פוסט-טראומטית ובהפרעות חרדה נוספות",
+
+			///////////
+			// OUTRO //
+			///////////
+
+			"outro0": "שוב, בחיים האמיתיים, לשכתב את עצמך זה לא קל וזה לא מהיר",
+			"outro1": "אבל זה אפשרי",
+			"outro2": "אני מבטיח לכם - אני ההוכחה",
+			"outro3": "שזה אפשרי",
+
+			/////////////
+			// CREDITS //
+			/////////////
+
+			"cred0": "היי, תודה ענקית לכל חברי הפטראון שלי",
+			"cred1": "בלעדיכם לא הייתי יכול לעשות את הדברים האינטרקטיביים המוזרים האלה",
+			"cred2": "וכנראה אאלץ לקבל עבודה אמיתית",
+			"cred3": "אז אם תרצו לאפשר לי להמשיך ליצור דברים כאלה",
+			"cred4": "ולקבל אזכור בדבר הבא שאצורי",
+			"cred5": "תכנסו לפטראון שלי",
+
+			"cred6": "המוזיקה שאתם שומעים כרגע נוצרה על ידי פירנה הנפלאה",
+			"cred7": "שעבדתי איתה לפני על שני פרוייקטים שלא סיימתי",
+
+			"cred8": "לעוד פרוייקטים אינרקטיביים חינוכיים תיכנסו ל ncase.me/polygons/",
+			"cred9": "זה פרויקט שעשיתי עם וי הארט, כן, הוי הארט",
+			"cred10": "על נטאי מערכתי וגיוון חברתי",
+
+			"cred11": "וזכרו, ההסבר האינטרקטיבי הזה היה רק הקדמה",
+			"cred12": "אז כדי ללמוד עוד, תכסו לחומר הקריאה הנוסף",
+			"cred13": "בתיאור למטה",
+
+			"cred14": "אווווו שתוכלו לשחק עם מצב ארגז החול משמאלכם",
+			"cred15": "כי זה די כיף",
+
+			"cred16": "הכל אופן, תודה רבה, רבה שצפיתם",
+			"cred17": "",
+			"cred18": "אה, שיחקתם? צפיתם?",
+			"cred19": "",
+			"cred20": "שיפיתם",
+			"cred21": "תודה רבה ששיפיתם",
+
+			//////////////////
+			// EXTRA SHTUFF //
+			//////////////////
+
+			"extra0": "לתקן את עצמך עלול ליצור חרדה לטווח קצר",
+			"extra1": "אבל כ\"ך שווה את זה בטווח הארוך",
+
+			"extra2": "פחד מותנה",
+			"extra3": "הפחד חוסל",
+
+			"extra4": "יש!",
+			"extra5": "תה-דא~",
+
+			"extra6": "מבינים, הטריק הוא לחשוף את עצמכם למה שמפחיד אתכם",
+			"extra7": "אבל באופן בטוח",
+			"extra8": "תתמודדו עם הפחדים שלכם במרחב פתוח",
+				
+		}
+	},
+
+	// Lithuanian
+	"lt": {
+		label: "lietuviškai",
+		captions: {
+
+			//////////////////
+			// INTRODUCTION //
+			//////////////////
+
+			"intro0": "Taigi, mane visuomet kankino nerimas.",
+			"intro1": "Vėliau ėmiau nerimauti DĖL TO, kad per daug nerimauju.",
+			"intro2": "Tai buvo nerimas ir dar daugiau nerimo.",
+			"intro3": "",
+
+			/////////////////
+			// PROPAGATION //
+			/////////////////
+
+			"prop0": "Labas! Aš esu Nicky Case,",
+			"prop1": "ir čia – interaktyvus paaiškinimas, kaip veikia neuronai.",
+			"prop2": "Aha! Tu išties gali žaisti su šitu,",
+			"prop3": "♬ taigi, kodėl tau nepabandžius ♬",
+			"prop4": "ir nepaspaudus ant neurono pažiūrėti, kas nutiks?",
+
+			"prop5": "Atsi-PRAŠAU! Aš kalbėjau!.. Juokauju.",
+
+			"prop6": "O! Oho, tu tikrai įsitraukei ir spaudinėji VISKĄ,",
+			"prop7": "PUIKU. SUPRATAI! JĖGA.",
+
+			"prop8": "Taip!",
+			"prop8.5": "Stebėk, kaip signalai perduodami tolyn,",
+			"prop9": "iš vieno neurono į kitą į kitą.",
+			"prop10": "Pabandyk dar paspaudinėti.",
+
+			"prop11": "Žinoma, tai yra supaprastintas modelis,",
+			"prop12": "bet maždaug taip veikia neuronai.",
+			"prop13": "Viena mintis įžiebia kitą ir taip toliau,",
+			"prop14": "bet... NERIMO pilnose smegenyse...",
+
+			"mesmerizing": "Tai užburia, ar ne?",
+
+			//////////////
+			// MY FEARS //
+			//////////////
+
+			"fear0": "ŠTAI kas vyksta.",
+			"fear1": "Nekaltos mintys jungiasi su nerimo pilnomis mintimis.",
+			"fear2": "Asmeniškai, aš ankščiau bijodavau pasirodyti nevykėliu,",
+			"fear3": "suartėti su žmonėmis",
+			"fear4": "ir...",
+			"fear5": "skylių.",
+			"fear6": "Nes... Nežinau kodėl, bet daug skylių šalia viena kitos",
+			"fear7": "tiesiog baugina mane. Nežinau...",
+			
+			//////////////////////
+			// HEBBIAN LEARNING //
+			//////////////////////
+
+			"hebb0": "[GARSAI]",
+			"hebb1": "Bet... Iš kur šios baimės atsiranda?",
+			"hebb2": "Kad galėčiau tai paaiškinti, atsikratykime visko...",
+			"hebb3": "Ir paimkime...",
+			"hebb4": "Šitai! ",
+
+			"hebb5": "Hebianinis mokymasis.",
+			"hebb6": "„Neuronai, kurie kartu įsižiebia, tarpusavyje susijungia.“",
+
+			"hebb7": "Tai taisyklė, kuria remdamiesi mokslininkai aiškina kaip",
+			"hebb8": "neuronai sudaro naujas jungtis.",
+			"hebb9": "Iš esmės, jei įžiebsite vieną neuroną, o tada - kitą,",
+			"hebb10": "pirmasis neuronas susijungs SU antruoju.",
+			"hebb11": "Pabandyk pats!",
+
+			"hebb12": "Per lėtai! Nepaspaudei pakankamai greitai. Pabandom dar kartą?",
+			"hebb13": "Per toli vienas nuo kito. Pabandyk kitą neuronų porą.",
+
+			"hebb14": "Ir štai kaip mokomės!",
+			"hebb15": "Žinoma, tikrovėje mokymosi procesas nėra toks greitas,",
+			"hebb16": "aš pagreitinau šią simuliaciją, bet, na, esmė ta pati.",
+			"hebb17": "O dabar pažaisk, padaryk dar kelias jungtis,",
+			"hebb18": "gal net sujunk grandinę ar kažką.",
+
+			"hebb19": "Ši mokymosi taisyklė paaiškina kodėl jei tau vaikystėje įkando šuo,",
+			"hebb20": "tau gali susikurti šunų baimė!",
+			"hebb21": "Nes pirmiau įsižiebė „šuns“ neuronas, o tada – „skausmo“.",
+			"hebb22": "Ir taip „šuo“ susisiejo su „skausmu“.",
+
+			///////////////////////////
+			// ANTI-HEBBIAN LEARNING //
+			///////////////////////////
+
+			"anti0": "Na, o kaip išmokome, štai kaip galime atmokti.",
+			
+			"anti1": "Anti-hebianinis mokymasis.",
+			"anti2": "„Ta pačia eilės tvarka neįsižiebę neuronai praranda ryšį.“",
+			
+			"anti3": "Dar viena neuromokslininkų taisyklė!",
+
+			"anti4": "Taigi, jeigu jau yra jungtis tarp dviejų neuronų,",
+			"anti5": "ir pirmasis neuronas įsižiebia, TAČIAU antrasis - ne,",
+			"anti6": "jungtis tarp jų silpnėja.",
+			"anti7": "Vėlgi, pabandyk.",
+
+			"anti8": "Šis neuronas neturėjo jokių jungčių.",
+			"anti9": "Turėtum surasti, kuris jau susijungęs.",
+			"anti10": "Šis neuronas turi jungtį, vedančią LINK jo, ne IŠ jo.",
+			"anti11": "Tau reikia neuronų, IŠ kurių eina jungtys.",
+
+			"anti12": "Luktelk...",
+			"anti13": "Ir žiūrėk! Jungtis jau susilpnėjo.",
+			"anti14": "Pakartok dar kartą, ir šį kartą jungtis visiškai išnyks.",
+
+			"anti15": "Ir tai paaiškina kodėl, jeigu bijai šunų,",
+			"anti16": "o tada vėl ir vėl bendrausi su draugiškais šunimis,",
+			"anti17": "tau galbūt pavyks atsikratyti baimės.",
+			"anti18": "„Šuns“ neuronas įsižiebs, tačiau „skausmo“ - ne,",
+			"anti19": "taigi sąsaja tarp šių dviejų sąvokų - silpnės.",
+
+			/////////////
+			// THERAPY //
+			/////////////
+
+			"ther0": "Taigi, dabar kai žinai, kaip dalykai išmokstami ir atmokstami, pakartokime...",
+			"ther1": "...šitai.",
+
+			"ther2": "Noriu, kad per-mokytum šias smegenis.",
+			"ther3": "Iš naujo sujunk šias neuronų poras,",
+			"ther4": "baimė pakeisk saugumo jausmu.",
+
+			"ther5": "Matai, savęs perrašymas gali sukelti trumpalaikį nerimą...",
+			"ther6": "...tačiau ilgalaikėje perspektyvoje – TIKRAI verta to imtis.",
+
+			"ther7": "Vieną įveikei – du liko.",
+			"ther8": "Du įveikei – liko vienas.",
+			"ther9": "aš. vis. dar. nemėgstu. skylių.",
+
+			"ther10": "Ir... Tau pavyko!",
+
+			"ther11": "Tai, ką dabar padarei, vadinama „Kognityvine elgesio terapija“.",
+			"ther12": "Tai viena iš labiausiai tyrimais paremtų terapijų,",
+			"ther13": "gydymui tam tikrų fobijų, PTSD ir kitų su stresu bei nerimu susijusių sutrikimų.",
+
+			///////////
+			// OUTRO //
+			///////////
+
+			"outro0": "Vėlgi, tikrovėje savęs perrašymas nėra lengvas ir greitas,",
+			"outro1": "bet tai gali būti padaryta.",
+			"outro2": "Ir prižadu tau – aš esu įrodymas –",
+			"outro3": "tai gali būti padaryta.",
+
+			/////////////
+			// CREDITS //
+			/////////////
+
+			"cred0": "Didelis ačiū visiems Patreon rėmėjams, nes be jūsų",
+			"cred1": "nebūtų šių keistų, interaktyvių dalykų",
+			"cred2": "ir aš  turbūt turėčiau ieškotis tikro darbo",
+			"cred3": "Taigi, jeigu nori padėti man ir toliau kurti tokį turinį,",
+			"cred4": "ir būti paminėtas,",
+			"cred5": "užeik į mano Patreon paskyrą!",
+
+			"cred6": "Muziką, kurios klausaisi, sukūrė nuostabioji Phyrnna,",
+			"cred7": "su kuria bendradarbiavau ir poroje ankstesnių, vis dar nebaigtų, projektų.",
+
+			"cred8": "Norite daugiau interaktyvių paaiškinimų? Peržiūrėkite „Parable of the Polygons!“ ",
+			"cred9": "Tai bendras darbas kartu su Vi Hart – taip, ta Vi Hart! :D –",
+			"cred10": "apie sisteminį šališkumą ir įvairovę.",
+
+			"cred11": "Ir prisiminkite – šis paaiškinimas tėra tik įžanga.",
+			"cred12": "Taigi, jeigu norite sužinoti daugiau, būtinai perskaitykite detalesnį paaiškinimą",
+			"cred13": "aprašyme žemiau. ",
+
+			"cred14": "Arba galite pažaisti smėliadėžėje kairėje",
+			"cred15": "nes tai išties linksma! ",
+
+			"cred16": "Ačiū jums už tai, kad žiūrėjote",
+			"cred17": "",
+			"cred18": "am, žaidėte?... Žiūrėjote?",
+			"cred19": "",
+			"cred20": "žiūrdėte.",
+			"cred21": "Ačiū, kad žiūrdėte.",
+
+			//////////////////
+			// EXTRA SHTUFF //
+			//////////////////
+
+			"extra0": "Bandymas iš naujo sujungti dalykus savo galvoje gali kelti nerimą...",
+			"extra1": "...tačiau ilgalaikėje perspektyvoje – tai tikrai verta.",
+
+			"extra2": "Sąlygų sukelta baimė.", 
+			"extra3": "Baimė panaikinta.", 
+
+			"extra4": "Ūūū!",
+			"extra5": "ta-daaa~",
+
+			"extra6": "Matai, reikia susidurti su savo baime akis į akį,",
+			"extra7": "tačiau saugioje aplinkoje.",
+			"extra8": "Pažvelkite savo baime į akis saugioje aplinkoje.",
+				
+		}
 	}
+
 
 };
